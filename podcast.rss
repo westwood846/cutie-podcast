@@ -13,12 +13,22 @@
       <itunes:email>giahan1219@gmail.com</itunes:email>
     </itunes:owner>
     <item>
-      <title>5 Lorong Puntong</title>
+      <title>Hiiii</title>
       <description>Cutie tells you how it is</description>
       <pubDate>Thu, 9 Apr 2020 20:00:00 SGT</pubDate>
       <enclosure url="https://westwood846.github.io/cutie-podcast/5-Lorong-Puntong.m4a" type="audio/mpeg" length="34216300"/>
       <itunes:duration>30:00</itunes:duration>
       <guid isPermaLink="false">hcp0</guid>
+    </item>
+    <item>
+      <title>một ngày vui vẻ bình thường</title>
+      <description>
+        Bạn ơiii, Hôm nay bạn có vui không? mình vui và khoẻ! cuộc sống có đôi chút biến đổi nhưng nói chung vẫn giữ tâm hồn vui vẻ, hồn nhiên nè. Nghe mình kể một ngày rất bình thường nhưng ngập tràn niềm vui xàm xí của mình nhé!!
+      </description>
+      <pubDate>Thu, 10 Apr 2020 20:00:00 SGT</pubDate>
+      <enclosure url="https://westwood846.github.io/cutie-podcast/một-ngày-vui-vẻ-bình-thường.mp3" type="audio/mpeg" length="34216300"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">hcp1</guid>
     </item>
   </channel>
 </rss>
