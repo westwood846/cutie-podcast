@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Hanny's Cutie Podcast</title>
+    <googleplay:author>Hanny</googleplay:author>
+    <itunes:author>Hanny</itunes:author>
+    <description>She wants to talk</description>
+    <googleplay:image href="http://cutie.serverless.social/hanny.jpg"/>
+    <itunes:image href="http://cutie.serverless.social/hanny.jpg" />
+    <language>en-us</language>
+    <link>https:/google.com</link>
+    <itunes:owner>
+      <itunes:email>giahan1219@gmail.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>Top 10 myths about caring for a zebra</title>
+      <description>Here are the top 10 misunderstandings about the care, feeding, and breeding of these lovable striped animals.</description>
+      <pubDate>Tue, 14 Mar 2017 12:00:00 GMT</pubDate>
+      <enclosure url="http://cutie.serverless.social/5-Lorong-Puntong.m4a" type="audio/mpeg" length="34216300"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">hcp0</guid>
+    </item>
+  </channel>
+</rss>
